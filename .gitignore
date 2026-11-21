@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+dataset/
+models/X_test.pkl
+models/y_test.pkl
+models/y_train.pkl
+models/winner_X_test.pkl
+models/winner_y_test.pkl
+models/winner_y_train.pkl
